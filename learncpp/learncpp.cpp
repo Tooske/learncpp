@@ -14,7 +14,7 @@ int maina() /* tells the compiler we're going to define a function whose name (i
 			  Every CPP programm must have a main function or it will fail to link*/
 {
 
-	cout << "This gets" << endl					// << endl does the same as \n
+	std::cout << "This gets" << endl					// << endl does the same as \n
 		<< "printed out \n"
 		<< "in multiple lines" << endl;
 
