@@ -19,5 +19,5 @@ int maina() /* tells the compiler we're going to define a function whose name (i
 		<< "in multiple lines" << endl;
 
 	return 0; /* sends a value back to the operation system to tell it if it was successfull or not 
-			     return 0 means the programm was successfull */
+			     "0" means the programm was successfull */
 }
