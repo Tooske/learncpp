@@ -1,9 +1,13 @@
 #include<iostream>
 
 
-/* What are literals ?
+/*
+---------------------------------------------------------------------------------------------------------------------
+ What are literals ?
  A literal (also known as a literal constant) is a fixed value that has been inserted directly into the source code. 
- Value 5 is always 5. This is my literals are called constants. */
+ Value 5 is always 5. This is my literals are called constants.
+---------------------------------------------------------------------------------------------------------------------
+*/
 
 
 int mainj()

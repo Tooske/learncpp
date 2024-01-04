@@ -27,5 +27,8 @@
     <ClCompile Include="literalsandoperators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="expressions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
