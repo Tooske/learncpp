@@ -3,14 +3,14 @@
 int mainb()
 {
 	// defines a variable named x, type (int)
-	int x;
-
+	// int x;
+	//
 	// define multiple variables
-	int a;
-	int b;
-
+	// int a;
+	// int b;
+	//
 	// works the same as above
-	int c, d;
+	// int c, d;
 
 	return 0;
 }

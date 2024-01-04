@@ -39,3 +39,40 @@ int mainl()
 
 	return 0;
 }
+
+
+int main()
+{
+	std::cout << 2 + 3 << "\n";
+
+	int x{ 6 };
+	int y{ x - 2 };
+	std::cout << y << "\n";
+
+	int z{ };
+	z = x;
+	std::cout << z - x << "\n";		//output should be
+									//5
+									//4
+									//0 
+
+	return 0;
+}
+
+/*
+------------------------------------Explanation-----------------------------------------------------------
+line 46 -- throws 5 because 2 + 3 = 5
+
+line 48 -- x has a stored value of 6 (direct list initialization)
+
+line 49 -- y becomes 4 because x(6) - 2 = 4
+
+line 50 -- print's y(4) 
+
+line 52 -- z is empty value initialization
+
+line 53 -- z is now == x so 6
+
+line 54 -- z(6) - x(6) output = 0
+----------------------------------------------------------------------------------------------------------
+*/

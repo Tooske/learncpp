@@ -1,13 +1,6 @@
 #include <iostream>
 
 
-int five()
-{
-	return 5;
-}
-
-int main()
-{
 
 /*
 ------------------------------------------------------------------------------------------------------------------------------
@@ -20,7 +13,13 @@ int main()
 			it would look something like "type - identifier - { expression };  
 ------------------------------------------------------------------------------------------------------------------------------
 */
+int five()
+{
+	return 5;
+}
 
+int mainm()
+{
 
 	int	a{ 2 };				 // initialize variable a with literal value 2
 
