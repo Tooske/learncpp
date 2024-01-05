@@ -40,8 +40,8 @@ int mainl()
 	return 0;
 }
 
-
-int main()
+					//What's the output gonna look like ?
+int mainn()
 {
 	std::cout << 2 + 3 << "\n";
 
@@ -51,10 +51,7 @@ int main()
 
 	int z{ };
 	z = x;
-	std::cout << z - x << "\n";		//output should be
-									//5
-									//4
-									//0 
+	std::cout << z - x << "\n";					 
 
 	return 0;
 }

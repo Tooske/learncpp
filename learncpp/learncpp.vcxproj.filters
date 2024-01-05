@@ -30,5 +30,8 @@
     <ClCompile Include="expressions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="firstprogram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
