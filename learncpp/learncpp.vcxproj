@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="firstprogram.cpp" />
+    <ClCompile Include="functions.cpp" />
     <ClCompile Include="iostream.cpp" />
     <ClCompile Include="learncpp.cpp" />
     <ClCompile Include="literalsandoperators.cpp" />

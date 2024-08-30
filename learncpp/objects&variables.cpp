@@ -1,6 +1,6 @@
 #include <iostream>
 
-int mainb()
+int main2()
 {
 	// defines a variable named x, type (int)
 	// int x;
@@ -16,7 +16,7 @@ int mainb()
 }
 	
 
-int mainc()
+int main3()
 {
 	int width; // we define a integer variable named "width
 
@@ -51,7 +51,7 @@ int mainc()
 ---------------------------------------------------------------------------------------------
 */
 
-int maind()
+int main4()
 {
 	//int x{ 0 };     // explicit initialization to value 0
 	//std::cout << x; // we're using that zero value

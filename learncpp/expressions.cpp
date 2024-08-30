@@ -18,7 +18,7 @@ int five()
 	return 5;
 }
 
-int mainm()
+int main14()
 {
 
 	int	a{ 2 };				 // initialize variable a with literal value 2

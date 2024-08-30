@@ -10,7 +10,7 @@
 */
 
 
-int mainj()
+int main10()
 {
 	std::cout << 5 << "\n"; // prints the value of a literal
 
@@ -19,7 +19,7 @@ int mainj()
 	return 0;
 }
 
-int maink()
+int main11()
 {
 	std::cout << 1 + 2 << "\n";
 
@@ -27,7 +27,7 @@ int maink()
 }
 
 
-int mainl()
+int main12()
 {
 	int x{}, y{}; // value initialization
 
@@ -41,7 +41,7 @@ int mainl()
 }
 
 					//What's the output gonna look like ?
-int mainn()
+int main13()
 {
 	std::cout << 2 + 3 << "\n";
 

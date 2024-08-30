@@ -1,6 +1,6 @@
 #include <iostream>
 
-int maine()
+int main5()
 {
 	int x{ 5 };		// variable x, initialized with value "5"
 	std::cout << x; // prints out the value of x "5" to the console
@@ -9,7 +9,7 @@ int maine()
 }
 
 
-int mainf()
+int main6()
 {
 	int x{ 5 };
 	std::cout << "x is equal to : " << x; // prints both the text and also the value of the variable in the same statement
@@ -18,7 +18,7 @@ int mainf()
 
 }
 
-int maing()
+int main7()
 {
 	std::cout << "Enter a number: "; // ask the user for a number
 
@@ -29,7 +29,7 @@ int maing()
 	return 0;
 }
 
-int mainh()
+int main8()
 {
 	std::cout << "enter two numbers seperated by a space: ";
 
@@ -44,7 +44,7 @@ int mainh()
 }
 
 
-int maini()
+int main9()
 {
 
 

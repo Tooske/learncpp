@@ -10,7 +10,7 @@ using namespace std;
 	multiline
 	comment */
 
-int maina() /* tells the compiler we're going to define a function whose name (identifier) is main.
+int main1() /* tells the compiler we're going to define a function whose name (identifier) is main.
 			  Every CPP programm must have a main function or it will fail to link*/
 {
 
