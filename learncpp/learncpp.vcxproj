@@ -130,11 +130,14 @@
   <ItemGroup>
     <ClCompile Include="expressions.cpp" />
     <ClCompile Include="firstprogram.cpp" />
+    <ClCompile Include="functionparameter-arguments.cpp" />
+    <ClCompile Include="functionreturnvalue.cpp" />
     <ClCompile Include="functions.cpp" />
     <ClCompile Include="iostream.cpp" />
     <ClCompile Include="learncpp.cpp" />
     <ClCompile Include="literalsandoperators.cpp" />
     <ClCompile Include="objects&amp;variables.cpp" />
+    <ClCompile Include="playground.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

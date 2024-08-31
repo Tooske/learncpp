@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main15()
 {
 	std::cout << "Enter a integer: ";							// ask's the user for an integer
 
